@@ -14,8 +14,9 @@ Academic Activity
 ======
 Conference Reviewer/PC Member:
 - CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, IJCAI, AAAI, etc
+
 Journal Reviewer:
-- TPAMI, TMM, TCSVT, TMLR, etc
+- TPAMI, TMM, TNNLS, Neural Computation, TCSVT, Neurocomputing, TMLR, etc
 
 Getting started
 ======
