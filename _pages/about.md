@@ -22,5 +22,6 @@ Journal Reviewer:
 Awards and Honors
 ======
 - [World's Top 2% Scientists by Stanford University](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6), 2022, 2023
+- [The World's Most Influential AI Scholar (AI 2000 Scholar) by Tsinghua University](https://www.aminer.cn/ai2000), 2023
 - [President Scholarship of Chinese Academy of Sciences (Special Prize)](http://www.is.cas.cn/xwdt2016/rdxw2016/202309/t20230908_6876763.html), 2023
 - [Nomination for Outstanding Youth Paper Award, WAIC](https://mp.weixin.qq.com/s/z5QDa98pJdT433Dj4EH8IQ), 2022
