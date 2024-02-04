@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a senior researcher at [Huawei Noah's Ark Lab](https://noahlab.com.hk/#/home), working closely with [Yunhe Wang](https://www.wangyunhe.site/). I received the B.S. and M.S. degrees from Zhejiang University and Peking University (advisor: [Prof. Chao Zhang](https://www.cis.pku.edu.cn/info/1177/1380.htm)) respectively, and
+I am currently a senior researcher at [Huawei Noah's Ark Lab](https://noahlab.com.hk/#/home), working closely with [Yunhe Wang](https://www.wangyunhe.site/). I received the B.S. and M.S. degrees from Zhejiang University and Peking University (advisor: [Prof. Chao Zhang](https://www.cis.pku.edu.cn/info/1084/1272.htm)) respectively, and
 the Ph.D degree from Institute of Software Chinese Academy of Sciences (advisor: [Prof. Enhua Wu](https://www.fst.um.edu.mo/personal/ehwu/)). My research interests lie in deep learning and computer vision.
 
 Academic Activity
