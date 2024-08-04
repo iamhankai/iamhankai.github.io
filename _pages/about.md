@@ -13,8 +13,8 @@ the Ph.D degree from Institute of Software Chinese Academy of Sciences (advisor:
 
 Academic Activity
 ======
-Conference Area Chair:
-- ICML 2024, ACM MM 2024
+Conference Area Chair/Senior PC:
+- ICML 2024, ACM MM 2024, AAAI 2025
 
 Conference Reviewer/PC Member:
 - CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, IJCAI, AAAI, etc
