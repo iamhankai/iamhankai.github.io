@@ -14,7 +14,7 @@ the Ph.D degree from Institute of Software Chinese Academy of Sciences (advised 
 Academic Activity
 ======
 Conference Area Chair/Senior PC Member:
-- ICML 2024, ACM MM 2024, AAAI 2025, ICLR 2025
+- ICML 2024/2025, ACM MM 2024, AAAI 2025, ICLR 2025
 
 Conference Reviewer/PC Member:
 - CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, IJCAI, AAAI, etc
@@ -24,7 +24,7 @@ Journal Reviewer:
 
 Awards and Honors
 ======
-- [World's Top 2% Scientists by Stanford University](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6), 2022, 2023
-- [The World's Most Influential AI Scholar (AI 2000 Scholar)](https://www.aminer.cn/ai2000) in Multimedia (2018), CV (2020, 2022) and ML (2021)
+- [World's Top 2% Scientists by Elsevier & Stanford University](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw), 2022-2024
 - [President Scholarship of Chinese Academy of Sciences (Special Prize)](http://www.is.cas.cn/xwdt2016/rdxw2016/202309/t20230908_6876763.html), 2023
 - [Nomination for Outstanding Youth Paper Award, WAIC](https://mp.weixin.qq.com/s/z5QDa98pJdT433Dj4EH8IQ), 2022
+- [1st place in China Graduate Contest on Smart-city Technology and Creative Design](https://news.pku.edu.cn/xwzh/129-294772.htm), 2016
