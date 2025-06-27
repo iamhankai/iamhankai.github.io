@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 I am currently a senior researcher at [Huawei Noah's Ark Lab](https://noahlab.com.hk/#/home), working closely with [Yunhe Wang](https://www.wangyunhe.site/). I received the B.S. and M.S. degrees from Zhejiang University and Peking University (advised by [Prof. Chao Zhang](https://www.cis.pku.edu.cn/info/1084/1272.htm)) respectively, and
-the Ph.D degree from Institute of Software, Chinese Academy of Sciences (advised by [Prof. Enhua Wu](https://www.fst.um.edu.mo/personal/ehwu/)). My research interests lie in deep learning and computer vision.
+the Ph.D degree from Institute of Software, Chinese Academy of Sciences (advised by [Prof. Enhua Wu](https://www.fst.um.edu.mo/personal/ehwu/)). My research interests lie in foundation models, deep learning and computer vision.
 
 Academic Activity
 ======
 Conference Area Chair/Senior PC Member:
-- ICML 2024/2025, ACM MM 2024, AAAI 2025, ICLR 2025, ICCV 2025
+- NeurIPS'25, ICML'24/'25, ICLR'25, ICCV'25, ACM MM'24/'25, AAAI'25
 
 Conference Reviewer/PC Member:
 - CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, IJCAI, AAAI, etc
